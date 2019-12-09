@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"frameobject.h": "c",
+		"code.h": "c",
+		"pyarena.h": "c",
+		"token.h": "c",
+		"python.h": "c",
+		"python-ast.h": "c",
+		"malloc.h": "c",
+		"abstract.h": "c",
+		"objimpl.h": "c"
+	}
+}
