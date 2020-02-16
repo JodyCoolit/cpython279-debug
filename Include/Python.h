@@ -71,6 +71,7 @@
 #if defined(Py_DEBUG) && defined(WITH_PYMALLOC) && !defined(PYMALLOC_DEBUG)
 #define PYMALLOC_DEBUG
 #endif
+#define PYMALLOC_DEBUG // added for debugging
 #if defined(PYMALLOC_DEBUG) && !defined(WITH_PYMALLOC)
 #error "PYMALLOC_DEBUG requires WITH_PYMALLOC"
 #endif
